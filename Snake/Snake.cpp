@@ -16,8 +16,6 @@ int nTail;
 int score;
 enum eDirecton {STOP = 0, LEFT, RIGHT, UP, DOWN};
 eDirecton dir;
-
-//
 void Setup() 
 {
     dir = STOP;

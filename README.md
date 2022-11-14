@@ -1,2 +1,3 @@
-# C_Projects
-My small C++ projects
+# Programing projects
+
+My programing projects
